@@ -1,0 +1,2 @@
+# BeautyLine
+Inventory Management System 
